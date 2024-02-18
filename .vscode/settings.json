@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "processo.h": "c",
+        "time.h": "c",
+        "stdlib.h": "c",
+        "fila.h": "c",
+        "stdio.h": "c",
+        "auxiliar.h": "c",
+        "escalonador.h": "c"
+    }
+}
